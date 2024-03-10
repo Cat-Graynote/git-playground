@@ -1,8 +1,10 @@
 # git-playground
 git-playground
-<<<<<<< HEAD
+
+사이트 제목 삭제
+
 깃으로 놀아보자!
 Let's got it!
-=======
 It works
->>>>>>> feat/b
+
+스태시 수정
