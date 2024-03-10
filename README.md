@@ -6,3 +6,5 @@ git-playground
 깃으로 놀아보자!
 Let's got it!
 It works
+
+스태시 수정
